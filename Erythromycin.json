@@ -4551,17 +4551,6 @@
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Dimension": "Fraction",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
             }
           ],
           "Curves": [
@@ -4572,19 +4561,6 @@
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Austin 1980 - 125 mg over 15 min (Regimen 2) - Erythromycin - IV - 125 mg - Urine - agg. (n=5)-Erythromycin-Kidney-Urine-ArithmeticMean",
-              "X": "Austin 1980 - 125 mg over 15 min (Regimen 2) - Erythromycin - IV - 125 mg - Urine - agg. (n=5)|Time",
-              "Y": "Austin 1980 - 125 mg over 15 min (Regimen 2) - Erythromycin - IV - 125 mg - Urine - agg. (n=5)|ObservedData|Kidney|Urine|Erythromycin|ArithmeticMean",
-              "CurveOptions": {
-                "yAxisType": "Y2",
-                "Visible": false,
-                "Color": "#ECD33A",
-                "LegendIndex": 5,
-                "LineStyle": "None",
-                "Symbol": "Circle"
               }
             },
             {
@@ -4624,16 +4600,6 @@
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Log",
               "NumberMode": "Normal"
             }
           ],
@@ -6721,7 +6687,7 @@
               "GridLines": false,
               "Visible": true,
               "Min": 0.025,
-              "Max": 4.717053,
+              "Max": 4.728179,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -6737,10 +6703,32 @@
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
+            },
+            {
+              "Name": "Posti 1983 - Formulation A2 (film-coated tabet, ery stearate), study 2 - Erythromycin - PO - 500 mg - Serum - agg. (n=12)-Erythromycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Posti 1983 - Formulation A2 (film-coated tabet, ery stearate), study 2 - Erythromycin - PO - 500 mg - Serum - agg. (n=12)|Time",
+              "Y": "Posti 1983 - Formulation A2 (film-coated tabet, ery stearate), study 2 - Erythromycin - PO - 500 mg - Serum - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Erythromycin|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Posti 1983 - Formulation RN (film-coated tabet, ery stearate), study 2 - Erythromycin - PO - 500 mg - Serum - agg. (n=12)-Erythromycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Posti 1983 - Formulation RN (film-coated tabet, ery stearate), study 2 - Erythromycin - PO - 500 mg - Serum - agg. (n=12)|Time",
+              "Y": "Posti 1983 - Formulation RN (film-coated tabet, ery stearate), study 2 - Erythromycin - PO - 500 mg - Serum - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Erythromycin|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#4BACC6",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin_Final\n500mg_Posti1983_A2/RN\n2019-10-09 12:57"
+          "OriginText": "Erythromycin_Final_001\n500mg_Posti1983_A2/RN\n2019-10-10 13:14"
         },
         {
           "Axes": [
@@ -6803,68 +6791,7 @@
             }
           ],
           "Name": "Time Profile Analysis 1",
-          "OriginText": "Erythromycin_Final\n500mg_Posti1983_A2/RN\n2019-10-09 12:57"
-        },
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "mg/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "500mg_Posti1983_A2/RN-Erythromycin-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "500mg_Posti1983_A2/RN|Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Posti 1983 - Formulation A2 (film-coated tabet, ery stearate), study 2 - Erythromycin - PO - 500 mg - Serum - agg. (n=12)-Erythromycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Posti 1983 - Formulation A2 (film-coated tabet, ery stearate), study 2 - Erythromycin - PO - 500 mg - Serum - agg. (n=12)|Time",
-              "Y": "Posti 1983 - Formulation A2 (film-coated tabet, ery stearate), study 2 - Erythromycin - PO - 500 mg - Serum - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Erythromycin|ArithmeticMean",
-              "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 4,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
-              "Name": "Posti 1983 - Formulation RN (film-coated tabet, ery stearate), study 2 - Erythromycin - PO - 500 mg - Serum - agg. (n=12)-Erythromycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Posti 1983 - Formulation RN (film-coated tabet, ery stearate), study 2 - Erythromycin - PO - 500 mg - Serum - agg. (n=12)|Time",
-              "Y": "Posti 1983 - Formulation RN (film-coated tabet, ery stearate), study 2 - Erythromycin - PO - 500 mg - Serum - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Erythromycin|ArithmeticMean",
-              "CurveOptions": {
-                "Color": "#4BACC6",
-                "LegendIndex": 5,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis 2",
-          "OriginText": "Erythromycin_Final_001\n500mg_Posti1983_A2/RN\n2019-10-10 13:14"
+          "OriginText": "Erythromycin\n500mg_Posti1983_A2/RN\n2019-10-16 13:04"
         }
       ],
       "Interactions": [
