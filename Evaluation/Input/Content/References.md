@@ -54,6 +54,8 @@
 
 **Kroboth 1982** Kroboth PD, Brown A, Lyon JA, Kroboth FJ, Juhl RP. Pharmacokinetics of single-dose erythromycin in normal and alcoholic liver disease subjects. *Antimicrob Agents Chemother* 1982, 21(1): 135-140.
 
+**Kuepfer 2016** Kuepfer L, Niederalt C, Wendl T, Schlender JF, Willmann S, Lippert J, Block M, Eissing T, Teutonico D. Applied concepts in PBPK modeling: how to build a PBPK/PD model. *CPT Pharmacometrics Syst Pharmacol* 2016, 5(10): 516-531.
+
 **Lancaster  2012** Lancaster CS, Bruun GH, Peer CJ, Mikkelsen TS, Corydon TJ, Gibson AA, Hu S, Orwick SJ, Mathijssen RH, Figg WD, Baker SD, Sparreboom A. OATP1B1 polymorphism as a determinant of erythromycin disposition. *Clin Pharmacol Ther* 2012, 92(5): 642-650.
 
 **Larrey 1983** Larrey D, Tinel M, and Pessayre D. Formation of inactive cytochrome P-450 Fe(II)-metabolite complexes with several erythromycin derivatives but not with josamycin and midecamycin in rats. *Biochem Pharmacol* 1983, 32(9): 1487-1493.
@@ -86,7 +88,11 @@
 
 **Obach 2007** Obach RS, Walsky RL, Venkatakrishnan K. Mechanism-based inactivation of human cytochrome p450 enzymes and the prediction of drug-drug interactions. *Drug Metab Dispos* 2007, 35(2): 246-255.
 
+**Open Systems Pharmacology Documentation**. (https://docs.open-systems-pharmacology.org/), accessed on 07-30-2019.
+
 **Pasic 1987** Pasic J, Jackson SH, Johnston A, Peverel-Cooper CA, Turner P, Downey K, Chaput de Saintonge DM. The interaction between chronic oral slow-release theophylline and single-dose intravenous erythromycin. *Xenobiotica* 1987, 17(4):493-497.
+
+**PK-Sim Ontogeny Database Version 7.3**. (https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf), accessed on 07-30-2019.
 
 **Polasek 2006** Polasek TM, Miners JO. Quantitative prediction of macrolide drug-drug interaction potential from in vitro studies using testosterone as the human cytochrome P4503A substrate. *Eur J Clin Pharmacol* 2006, 62(3): 203-208.
 
@@ -111,6 +117,8 @@
 **Wang 1997** Wang RW, Newton DJ, Scheri TD, Lu AY. Human cytochrome P450 3A4-catalyzed testosterone 6 beta-hydroxylation and erythromycin N-demethylation. Competition during catalysis. *Drug Metab Dispos* 1997, 25(4): 502-507.
 
 **Watanabe 2007** Watanabe A, Nakamura K, Okudaira N, Okazaki O, Sudo K. Risk assessment for drug-drug interaction caused by metabolism-based inhibition of CYP3A using automated in vitro assay systems and its application in the early drug discovery process. *Drug Metab Dispos* 2007, 35(7): 1232-1238.
+
+**Willmann 2007** Willmann S, Höhn K, Edginton A, Sevestre M, Solodenko J, Weiss W, Lippert J, Schmitt W. Development of a physiology-based whole-body population model for assessing the influence of individual variability on the pharmacokinetics of drugs. *J Pharmacokinet Pharmacodyn* 2007, 34(3): 401-431.
 
 **Xu 2009** Xu L, Chen Y, Pan Y, Skiles GL, Shou M. Prediction of human drug-drug interactions from time-dependent inactivation of CYP3A4 in primary hepatocytes using a population-based simulator. *Drug Metab Dispos* 2009, 37(12): 2330-2339.
 
