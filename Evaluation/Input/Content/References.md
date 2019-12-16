@@ -10,11 +10,11 @@
 
 **Barre 1987** Barre J, Mallat A, Rosenbaum J, Deforges L, Houin G, Dhumeaux D, Tillement JP. Pharmacokinetics of erythromycin in patients with severe cirrhosis. Respective influence of decreased serum binding and impaired liver metabolic capacity. *Br J Clin Pharmacol* 1987, 23(6): 753-757.
 
-**Berend 1979** 
-
-
+**Berend 1979** Berend N, Rutland J, Marlin GE. Plasma and saliva concentrations for a new formulation of erythromycin stearate. *Curr Med Res Opin* 1979, 6(2): 118-123.
 
 **Birkett 1990** Birkett DJ, Robson RA, Grgurinovich N, Tonkin A. Single oral dose pharmacokinetics of erythromycin and roxithromycin and the effects of chronic dosing. *Ther Drug Monit* 1990, 12(1): 65-71.
+
+**Brannan 1995** Brannan MD, Reidenberg P, Radwanski E, Shneyer L, Lin CC, Cayen MN, Affrime MB. Loratadine administered concomitantly with erythromycin: pharmacokinetic and electrocardiographic evaluations. *Clin Pharmacol Ther* 1995, 58(3): 269-278.
 
 **Capobianco 1994** Capobianco JO, Goldman RC. Macrolide transport in Escherichia coli strains having normal and altered OmpC and/or OmpF porins. *Int J Antimicrob Agents* 1994, 4(3): 183-189.
 
@@ -33,6 +33,8 @@
 **DiSanto 1981** DiSanto AR, Chodos DJ. Influence of study design in assessing food effects on absorption of erythromycin base and erythromycin stearate. *Antimicrob Agents Chemother* 1981, 20(2): 190-196.
 
 **drugbank** (https://www.drugbank.ca/drugs/DB00199), accessed on 05-14-2018.
+
+**Henry 1980** Henry J, Turner P, Garland M, Esmieu F. Plasma and salivary concentrations of erythromycin after administration of three different formulations. *Postgrad Med J* 1980, 56(660): 707-710.
 
 **Huppertz 2011** Huppertz A, Breuer J, Fels LM, Schultze‐Mosgau M, Sutter G, Klein S, et al. Evaluation of possible drug–drug interaction between gadoxetic acid and erythromycin as an inhibitor of organic anion transporting peptides (OATP). *J Magn Reson Imaging* 2011, 33(2): 409-416.
 
@@ -94,6 +96,8 @@
 
 **Open Systems Pharmacology Documentation**. (https://docs.open-systems-pharmacology.org/), accessed on 07-30-2019.
 
+**Parsons 1977** Parsons RL, Paddock M, Hossack A. Particular aspects of the pharmacokinetics of erythromycin. *Infection* 1977, 5(1): 23-28.
+
 **Pasic 1987** Pasic J, Jackson SH, Johnston A, Peverel-Cooper CA, Turner P, Downey K, Chaput de Saintonge DM. The interaction between chronic oral slow-release theophylline and single-dose intravenous erythromycin. *Xenobiotica* 1987, 17(4):493-497.
 
 **PK-Sim Ontogeny Database Version 7.3**. (https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf), accessed on 07-30-2019.
@@ -107,6 +111,10 @@
 **Ring 2005** Ring BJ, Patterson BE, Mitchell MI, Vandenbranden M, Gillespie J, Bedding AW, Jewell H, Payne CD, Forgue ST, Eckstein J, Wrighton SA, Phillips DL. Effect of tadalafil on cytochrome P450 3A4-mediated clearance: studies in vitro and in vivo. *Clin Pharmacol Ther* 2005, 77(1): 63-75.
 
 **Schreiner 1984** Schreiner A, Digranes A. Absorption of erythromycin stearate and enteric-coated erythromycin base after a single oral dose immediately before breakfast. *Infection* 1984, 12(5): 345-348.
+
+**Shanson 1984** Shanson DC, Tidbury P, McNabb WR, Tadayon M. The pharmacokinetics and tolerance of oral erythromycin stearate compared with erythromycin ethylsuccinate: implications for preventing endocarditis. *J Antimicrob Chemother* 1984, 14(2): 157-163.
+
+**Simon 1980** Simon C. Pharmacokinetics of erythromycin in healthy adults and in adults with respiratory infections. *Curr Med Res Opin* 1980, 6(sup8): 17-22.
 
 **Sun 2010** Sun H, Frassetto LA, Huang Y, Benet LZ. Hepatic clearance, but not gut availability, of erythromycin is altered in patients with end-stage renal disease. *Clin Pharmacol Ther* 2010, 87(4): 465-472.
 
@@ -125,6 +133,8 @@
 **Willmann 2007** Willmann S, Höhn K, Edginton A, Sevestre M, Solodenko J, Weiss W, Lippert J, Schmitt W. Development of a physiology-based whole-body population model for assessing the influence of individual variability on the pharmacokinetics of drugs. *J Pharmacokinet Pharmacodyn* 2007, 34(3): 401-431.
 
 **Xu 2009** Xu L, Chen Y, Pan Y, Skiles GL, Shou M. Prediction of human drug-drug interactions from time-dependent inactivation of CYP3A4 in primary hepatocytes using a population-based simulator. *Drug Metab Dispos* 2009, 37(12): 2330-2339.
+
+**Yakatan 1979** Yakatan GJ, Poynor WJ, Harris RG, Martin A, Leonard RG, Briggs AH, Doluisio JT. Single-dose fasting bioequivalence assessment of erythromycin stearate tablets in man. *J Pharmacokinet Biopharm* 1979, 7(4): 355-368.
 
 **Yakatan 1980** Yakatan GJ, Poynor WJ, Breeding SA, Lankford CE, Dighe SV, Martin AN, Doluisio JT. Single- and multiple-dose bioequivalence of erythromycin pharmaceutical alternatives. *J Clin Pharmacol* 1980, 20(11): 625-638.
 
