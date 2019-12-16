@@ -10,6 +10,10 @@
 
 **Barre 1987** Barre J, Mallat A, Rosenbaum J, Deforges L, Houin G, Dhumeaux D, Tillement JP. Pharmacokinetics of erythromycin in patients with severe cirrhosis. Respective influence of decreased serum binding and impaired liver metabolic capacity. *Br J Clin Pharmacol* 1987, 23(6): 753-757.
 
+**Berend 1979** 
+
+
+
 **Birkett 1990** Birkett DJ, Robson RA, Grgurinovich N, Tonkin A. Single oral dose pharmacokinetics of erythromycin and roxithromycin and the effects of chronic dosing. *Ther Drug Monit* 1990, 12(1): 65-71.
 
 **Capobianco 1994** Capobianco JO, Goldman RC. Macrolide transport in Escherichia coli strains having normal and altered OmpC and/or OmpF porins. *Int J Antimicrob Agents* 1994, 4(3): 183-189.
