@@ -85,19 +85,21 @@ The following publications were found and used for model building and evaluation
 | :-------------------------------- | :----------------------------------------------------------- |
 | [Austin 1980](# 5 References)     | IV administration of 125 mg, 250 mg, 500 mg, and 900 mg as erythromycin lactobionate; single dose |
 | [Barre 1987](# 5 References)      | IV administration of 500 mg as erythromycin lactobionate; single dose |
+| [Berend 1979](# 5 References)     | berend 1979                                                  |
+| [Birkett 1990](# 5 References)    | PO administration of 250 mg as enteric-coated capsules containing pellets of erythromycin base; single dose |
+| [DiSanto 1981](# 5 References)    | PO administration of 500 mg as unprotected tablets containing erythromycin base, as film-coated tablets containing erythromycin base, as enteric-coated tablets containing erythromycin base and as film-coated tablets containing erythromycin stearate; single and multiple dose |
 | [Huppertz 2011](# 5 References)   | IV administration of 1000 mg as erythromycin lactobionate; single dose |
-| [Pasic 1987](# 5 References)      | IV administration of 300 mg as erythromycin lactobionate; single dose |
-| [Sun 2010](# 5 References)        | IV administration of 125 mg and PO administration of 250 mg (salt and formulation type not specified); single dose |
 | [Iliopoulou 1982](# 5 References) | PO administration of 500 mg as film-coated tablet containing erythromycin stearate; multiple dose |
 | [Josefsson 1982](# 5 References)  | PO administration of 500 mg as film-coated tablet containing erythromycin stearate and 250 mg, 500 mg, 1000 mg as enteric coated capsules containing pellets of erythromycin base; single dose |
 | [Kavi 1988](# 5 References)       | PO administration of 500 mg as film-coated tablet containing erythromycin stearate; single dose |
+| [Kivistö 1997](# 5 References)    | PO administration of 500 mg as enteric-coated capsules containing erythromycin base; multiple dose |
+| [Kroboth 1982](# 5 References)    | PO administration of 500 mg as enteric-coated tablets containing erythromycin base; single dose |
 | [Malmborg 1978](# 5 References)   | PO administration of 500 mg as film-coated tablet containing erythromycin stearate; multiple dose |
 | [Miglioli 1990](# 5 References)   | PO administration of 1000 mg erythromycin stearate; multiple dose |
+|                                   |                                                              |
+| [Pasic 1987](# 5 References)      | IV administration of 300 mg as erythromycin lactobionate; single dose |
 | [Posti 1983](# 5 References)      | PO administration of 500 mg as film-coated tablets containing erythromycin stearate, as enteric-coated tablets containing erythromycin base, and as enteric-coated tablets containing erythromycin stearate; single dose |
 | [Schreiner 1984](# 5 References)  | PO administration of 500 mg as film-coated tablets containing erythromycin stearate and as enteric-coated capsule containing pellets of erythromycin base; single dose |
+| [Sun 2010](# 5 References)        | IV administration of 125 mg and PO administration of 250 mg (salt and formulation type not specified); single dose |
 | [Yakatan 1980](# 5 References)    | PO administration of 250 mg as film-coated tablet containing erythromycin stearate, as enteric-coated tablet containing erythromycin base, and as enteric-coated capsules containing erythromycin estolate; single and multiple dose |
-| [Birkett 1990](# 5 References)    | PO administration of 250 mg as enteric-coated capsules containing pellets of erythromycin base; single dose |
-| [Kivistö 1997](# 5 References)    | PO administration of 500 mg as enteric-coated capsules containing erythromycin base; multiple dose |
-| [DiSanto 1981](# 5 References)    | PO administration of 500 mg as unprotected tablets containing erythromycin base, as film-coated tablets containing erythromycin base, as enteric-coated tablets containing erythromycin base and as film-coated tablets containing erythromycin stearate; single and multiple dose |
-| [Kroboth 1982](# 5 References)    | PO administration of 500 mg as enteric-coated tablets containing erythromycin base; single dose |
 
