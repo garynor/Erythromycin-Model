@@ -161,6 +161,11 @@
             },
             {
                 "Project": "Erythromycin",
+                "Simulation": "IV_500mg_Simon1980",
+                "SectionId": 332
+            },
+            {
+                "Project": "Erythromycin",
                 "Simulation": "IV_900mg_Austin1980",
                 "SectionId": 332
             },
@@ -221,6 +226,16 @@
             },
             {
                 "Project": "Erythromycin",
+                "Simulation": "1500mg_Shanson1984",
+                "SectionId": 332
+            },
+            {
+                "Project": "Erythromycin",
+                "Simulation": "250mg_Yakatan1979",
+                "SectionId": 332
+            },
+            {
+                "Project": "Erythromycin",
                 "Simulation": "250mg_Yakatan1980_stearate",
                 "SectionId": 331
             },
@@ -228,6 +243,21 @@
                 "Project": "Erythromycin",
                 "Simulation": "250mg_Yakatan1980_stearate_MD",
                 "SectionId": 331
+            },
+            {
+                "Project": "Erythromycin",
+                "Simulation": "500mg_Berend1979_MD",
+                "SectionId": 332
+            },
+            {
+                "Project": "Erythromycin",
+                "Simulation": "500mg_Brannan1995_MD",
+                "SectionId": 332
+            },
+            {
+                "Project": "Erythromycin",
+                "Simulation": "500mg_Henry1980",
+                "SectionId": 332
             },
             {
                 "Project": "Erythromycin",
@@ -251,6 +281,11 @@
             },
             {
                 "Project": "Erythromycin",
+                "Simulation": "500mg_Parsons1977",
+                "SectionId": 332
+            },
+            {
+                "Project": "Erythromycin",
                 "Simulation": "500mg_Posti1983_A1",
                 "SectionId": 331
             },
@@ -262,6 +297,11 @@
             {
                 "Project": "Erythromycin",
                 "Simulation": "500mg_Schreiner1984_stearate",
+                "SectionId": 332
+            },
+            {
+                "Project": "Erythromycin",
+                "Simulation": "500mg_Simon1980",
                 "SectionId": 332
             }
         ],
@@ -476,6 +516,13 @@
                             },
                             {
                                 "Project": "Erythromycin",
+                                "Simulation": "IV_500mg_Simon1980",
+                                "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Simon 1980 - 500 mg IV - Erythromycin - IV - 500 mg - Serum - agg. (n=6)",
+                                "Color": "#b2df8a"
+                            },
+                            {
+                                "Project": "Erythromycin",
                                 "Simulation": "IV_900mg_Austin1980",
                                 "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Austin 1980 - 900 mg over 15 min (Regimen 2) - Erythromycin - IV - 900 mg - Serum - agg. (n=3)",
@@ -487,6 +534,69 @@
                         "Caption": "PO film-coated tablet, stearate",
                         "Symbol": "Circle",
                         "OutputMappings": [
+                            {
+                                "Project": "Erythromycin",
+                                "Simulation": "1500mg_Shanson1984",
+                                "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Shanson 1984 - Erythromycin stearate - Erythromycin - PO - 1500 mg - Serum - agg. (n=11)",
+                                "Color": "#b2df8a"
+                            },
+                            {
+                                "Project": "Erythromycin",
+                                "Simulation": "250mg_Yakatan1979",
+                                "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Yakatan 1979 - Manufacturer Abbott - Erythromycin - PO - 250 mg - Serum - agg. (n=10)",
+                                "Color": "#b2df8a"
+                            },
+                            {
+                                "Project": "Erythromycin",
+                                "Simulation": "250mg_Yakatan1979",
+                                "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Yakatan 1979 - Manufacturer Barr - Erythromycin - PO - 250 mg - Serum - agg. (n=10)",
+                                "Color": "#b2df8a"
+                            },
+                            {
+                                "Project": "Erythromycin",
+                                "Simulation": "250mg_Yakatan1979",
+                                "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Yakatan 1979 - Manufacturer Bristol - Erythromycin - PO - 250 mg - Serum - agg. (n=10)",
+                                "Color": "#b2df8a"
+                            },
+                            {
+                                "Project": "Erythromycin",
+                                "Simulation": "250mg_Yakatan1979",
+                                "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Yakatan 1979 - Manufacturer Mylan - Erythromycin - PO - 250 mg - Serum - agg. (n=10)",
+                                "Color": "#b2df8a"
+                            },
+                            {
+                                "Project": "Erythromycin",
+                                "Simulation": "250mg_Yakatan1979",
+                                "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Yakatan 1979 - Manufacturer Purepac - Erythromycin - PO - 250 mg - Serum - agg. (n=10)",
+                                "Color": "#b2df8a"
+                            },
+                            {
+                                "Project": "Erythromycin",
+                                "Simulation": "500mg_Berend1979_MD",
+                                "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Berend 1979 - Erythromycin stearate - Erythromycin - PO - 500 mg - Plasma - agg. (n=10)",
+                                "Color": "#b2df8a"
+                            },
+                            {
+                                "Project": "Erythromycin",
+                                "Simulation": "500mg_Brannan1995_MD",
+                                "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Brannan 1995 - Erythromycin with placebo - Erythromycin - PO - 500 mg - Plasma - agg. (n=8)",
+                                "Color": "#b2df8a"
+                            },
+                            {
+                                "Project": "Erythromycin",
+                                "Simulation": "500mg_Henry1980",
+                                "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Henry 1980 - Erythromycin stearate - Erythromycin - PO - 500 mg - Plasma - agg. (n=6)",
+                                "Color": "#b2df8a"
+                            },
                             {
                                 "Project": "Erythromycin",
                                 "Simulation": "500mg_Iliopoulou1982_MD",
@@ -510,6 +620,20 @@
                             },
                             {
                                 "Project": "Erythromycin",
+                                "Simulation": "500mg_Parsons1977",
+                                "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Parsons 1977 - Erythromycin stearate, supine, normal subjects - Erythromycin - PO - 500 mg - Plasma - agg. (n=6)",
+                                "Color": "#b2df8a"
+                            },
+                            {
+                                "Project": "Erythromycin",
+                                "Simulation": "500mg_Parsons1977",
+                                "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Parsons 1977 - Erythromycin stearate, walking, normal subjects - Erythromycin - PO - 500 mg - Plasma - agg. (n=6)",
+                                "Color": "#b2df8a"
+                            },
+                            {
+                                "Project": "Erythromycin",
                                 "Simulation": "500mg_Schreiner1984_stearate",
                                 "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Schreiner 1984 - Part I, stearate tablet - Erythromycin - PO - 500 mg - Serum - agg. (n=14)",
@@ -520,6 +644,13 @@
                                 "Simulation": "500mg_Schreiner1984_stearate",
                                 "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Schreiner 1984 - Part II, stearate tablet - Erythromycin - PO - 500 mg - Serum - agg. (n=10)",
+                                "Color": "#b2df8a"
+                            },
+                            {
+                                "Project": "Erythromycin",
+                                "Simulation": "500mg_Simon1980",
+                                "Output": "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Simon 1980 - 500 mg stearate PO - Erythromycin - PO - 500 mg - Serum - agg. (n=10)",
                                 "Color": "#b2df8a"
                             }
                         ]
