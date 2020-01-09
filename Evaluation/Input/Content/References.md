@@ -94,6 +94,8 @@
 
 **Obach 2007** Obach RS, Walsky RL, Venkatakrishnan K. Mechanism-based inactivation of human cytochrome p450 enzymes and the prediction of drug-drug interactions. *Drug Metab Dispos* 2007, 35(2): 246-255.
 
+**Olkkola 1993** Olkkola KT, Aranko K, Luurila H, Hiller A, Saarnivaara L, Himberg JJ, Neuvonen PJ. A potentially hazardous interaction between erythromycin and midazolam. *Clin Pharmacol Ther* 1993, 53(3): 298-305.
+
 **Open Systems Pharmacology Documentation**. (https://docs.open-systems-pharmacology.org/), accessed on 07-30-2019.
 
 **Parsons 1977** Parsons RL, Paddock M, Hossack A. Particular aspects of the pharmacokinetics of erythromycin. *Infection* 1977, 5(1): 23-28.
