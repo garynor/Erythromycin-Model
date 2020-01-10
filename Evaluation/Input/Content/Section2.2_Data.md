@@ -16,7 +16,7 @@ A literature search was carried out to collect available information on physicoc
 
 ### 2.2.2	In vitro data on mechanism-based inhibition of CYP3A
 
-A literature search was carried out to collect quantitative information the meachnism-based inhibition of CYP3A by erythromycin, in particular measured values for K<sub>I</sub> and k<sub>inact</sub>. The gathered information is summarized in the table below and is used for model building.
+A literature search was carried out to collect quantitative information the kinetic parameters describing the mechanism-based inhibition of CYP3A by erythromycin, K<sub>I</sub> and k<sub>inact</sub>. Ample data was collected from the literature and is summarized in the table below.
 
 | Victim   compound | In   vitro system | Enzyme | K<sub>I</sub>   [µM] | k<sub>inact</sub>   [min<sup>-1</sup>] | Concentration   range of erythromycin [µM] | Concentration   of victim compound [µM] | Reference                           |
 | ----------------- | ----------------- | ------ | -------------------- | -------------------------------------- | ------------------------------------------ | --------------------------------------- | ----------------------------------- |
@@ -75,11 +75,16 @@ A literature search was carried out to collect quantitative information the meac
 
 *Note:* Abbreviations: HEP: human hepatocytes; HLM: human liver microsomes; rec cDNA CYP3A4: human recombinant c-DNA CYP3A4 enzymes (e.g. supersomes, baculovirus-insect cell system, E. coli transfected cells)
 
+The data listed in the Table above can be statistically summarized as follows:
+
+| Parameter [unit]                     | Min    | Q1     | Geometric mean | Median | Arithmetic mean | Q3     | Max   |
+| ------------------------------------ | ------ | ------ | -------------- | ------ | --------------- | ------ | ----- |
+| K<sub>I</sub> [µM]                   | 0.420  | 4.89   | 8.71           | 10.9   | 18.4            | 19.3   | 109   |
+| k<sub>inact</sub> [min<sup>-1</sup>] | 0.0115 | 0.0314 | 0.0504         | 0.0535 | 0.0664          | 0.0772 | 0.340 |
+
 ### 2.2.3	Clinical data
 
-A literature search was carried out to collect available PK data on erythromycin in healthy adults. 
-
-The following data from the publications listed below were used for model building and evaluation:
+A literature search was carried out to collect available PK data on erythromycin in healthy adults. The following data from the publications listed below were used for model building and evaluation:
 
 | Publication                       | Study description                                            |
 | :-------------------------------- | :----------------------------------------------------------- |
@@ -98,6 +103,7 @@ The following data from the publications listed below were used for model buildi
 | [Kroboth 1982](# 5 References)    | PO administration of 500 mg as enteric-coated tablets containing erythromycin base; single dose |
 | [Malmborg 1978](# 5 References)   | PO administration of 500 mg as film-coated tablet containing erythromycin stearate; multiple dose |
 | [Miglioli 1990](# 5 References)   | PO administration of 1000 mg erythromycin stearate; multiple dose |
+| [Olkkola 1993](# 5 References)    | Midazolam-erythromycin interaction study; PO administration of 500 mg as enteric-coated tablet containing erythromycin base; multiple dose |
 | [Parsons 1977](# 5 References)    | PO administration of 500 mg erythromycin stearate; single dose |
 | [Pasic 1987](# 5 References)      | IV administration of 300 mg as erythromycin lactobionate; single dose |
 | [Posti 1983](# 5 References)      | PO administration of 500 mg as film-coated tablets containing erythromycin stearate, as enteric-coated tablets containing erythromycin base, and as enteric-coated tablets containing erythromycin stearate; single dose |
