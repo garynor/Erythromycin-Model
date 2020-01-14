@@ -2,7 +2,7 @@
 
 
 
-| Version     | 0.2                       |
+| Version     | 1.0                       |
 | ----------- | ------------------------- |
 | OSP Version | 8.0                       |
 | Author      | André Dallmann (AndreDlm) |
